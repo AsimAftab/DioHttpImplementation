@@ -1,4 +1,4 @@
-# **DioHttp Implementation with FLask(Python) in Dart**
+# **DioHttp Implementation with Flask(Python) in Dart**
 
 This project demonstrates how to use DioHttp in Dart to make API calls to a Flask server written in Python. It covers various endpoints for tasks like user creation, fetching users, etc.
 
